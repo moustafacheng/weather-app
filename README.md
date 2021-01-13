@@ -1,4 +1,4 @@
-#Weather API
+# Weather API
 Free weather API from https://openweathermap.org/api
 
 # Getting Started with Create React App
